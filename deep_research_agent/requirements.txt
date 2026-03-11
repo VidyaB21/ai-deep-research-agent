@@ -1,10 +1,9 @@
 streamlit
-duckduckgo-search
-beautifulsoup4
-requests
-sentence-transformers
-faiss-cpu
+wikipedia
+fpdf
 transformers
 torch
-fpdf
-duckduckgo-search
+sentence-transformers
+scikit-learn
+requests
+beautifulsoup4
